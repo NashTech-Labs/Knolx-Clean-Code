@@ -3,7 +3,6 @@ package comments
 //TODO-these are not needed
 // We expect this to go away when we do the checkout model
 class ToDoComments extends Exception {
-   null
 }
 
 
